@@ -1,5 +1,4 @@
 //Write a menu driven code to implement STACK ADT using arrays
-
 #include <stdio.h>
 int stack[10],choice,max,top,x,i;
 void push(void);
